@@ -6,6 +6,8 @@ In this lab, I learned how to **secure a Linux environment using IPTables**. The
 
 ## 📋 Lab Overview
 
+<img width="1235" height="953" alt="CALESTON TECHNOLOGY" src="https://github.com/user-attachments/assets/dd6f5111-35a9-4e32-821a-e71f478d78e9" />
+
 **Goal:**
 
 * Install and verify IPTables on multiple servers
